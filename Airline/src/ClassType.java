@@ -1,0 +1,4 @@
+
+public enum ClassType {
+FIRSTCLASS , BUSINESSCLASS, ECONOMYCLASS
+}
